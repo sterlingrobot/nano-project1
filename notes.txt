@@ -1,0 +1,8 @@
+References used in P1: Mockup to Website
+========================================
+
+getbootstrap.com
+- Needed a refesh on row/column structure
+
+developer.mozilla.org/en-US/docs/Web/CSS
+- Check on line-height, letter-spacing, word-spacing syntax and units
